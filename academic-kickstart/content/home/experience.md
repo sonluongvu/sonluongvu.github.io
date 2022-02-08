@@ -66,7 +66,7 @@ experience:
   - title: Research Assistant
     company: Spafford Lab, Department of Biology, University of Waterloo
     company_logo: ''
-    company_url: 'https://www.polyu.edu.hk/en/'
+    company_url: 'https://uwaterloo.ca/spafford-neurobiology-research-lab/'
     location: Waterloo, ON, Canada
     date_start: '2018-01-01'
     date_end: '2019-04-30'
